@@ -1,0 +1,8 @@
+C:\Users\maric\OneDrive\Escritorio\Progra2\Tarea1_NotasEstudiantes\Tarea1_NotasEstudiantes\bin\Debug\Tarea1_NotasEstudiantes.exe.config
+C:\Users\maric\OneDrive\Escritorio\Progra2\Tarea1_NotasEstudiantes\Tarea1_NotasEstudiantes\bin\Debug\Tarea1_NotasEstudiantes.exe
+C:\Users\maric\OneDrive\Escritorio\Progra2\Tarea1_NotasEstudiantes\Tarea1_NotasEstudiantes\bin\Debug\Tarea1_NotasEstudiantes.pdb
+C:\Users\maric\OneDrive\Escritorio\Progra2\Tarea1_NotasEstudiantes\Tarea1_NotasEstudiantes\obj\Debug\Tarea1_NotasEstudiantes.csproj.AssemblyReference.cache
+C:\Users\maric\OneDrive\Escritorio\Progra2\Tarea1_NotasEstudiantes\Tarea1_NotasEstudiantes\obj\Debug\Tarea1_NotasEstudiantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\maric\OneDrive\Escritorio\Progra2\Tarea1_NotasEstudiantes\Tarea1_NotasEstudiantes\obj\Debug\Tarea1_NotasEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\maric\OneDrive\Escritorio\Progra2\Tarea1_NotasEstudiantes\Tarea1_NotasEstudiantes\obj\Debug\Tarea1_NotasEstudiantes.exe
+C:\Users\maric\OneDrive\Escritorio\Progra2\Tarea1_NotasEstudiantes\Tarea1_NotasEstudiantes\obj\Debug\Tarea1_NotasEstudiantes.pdb
